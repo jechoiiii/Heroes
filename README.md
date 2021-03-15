@@ -6,7 +6,7 @@
 ---
 <br>
 
-# 1. :grin: 서비스 소개
+## 1. :grin: 서비스 소개
 <pre><p align="center">
 히어로즈는 자바 콘솔을 이용한 야구 예매 서비스입니다.<br>
 간단한 인증 절차를 통해 회원들이 야구 경기 예매/취소/결제/환불 등 서비스를 자유롭게 이용할 수 있으며, 
@@ -15,7 +15,7 @@
 ---
 <br>
 
-# 2. :two_men_holding_hands: 팀원 소개 및 담당
+## 2. :two_men_holding_hands: 팀원 소개 및 담당
 <pre>팀 "히어로즈"입니다! </pre>
 * [혜인](https://github.com/hyenni2-2) : Main & Debug
 * [정은](https://github.com/jechoiiii) : Login & Join
@@ -26,7 +26,7 @@
 ---
 <br>
 
-# 3. :computer: 핵심 기능
+## 3. :computer: 핵심 기능
 * 로그인 및 회원가입 시스템을 구현했습니다.
     * 회원정보 조회, 변경 및 삭제가 가능합니다. 
 * 경기 날짜, 좌석을 선택해 경기를 예매할 수 있습니다.
@@ -39,7 +39,7 @@
 ---
 <br>
 
-# 4. :department_store: 프로젝트 구조
+## 4. :department_store: 프로젝트 구조
 ### 1) 유스 케이스 다이어그램
 <p align="center"><img src="https://user-images.githubusercontent.com/72012792/111126723-5dd95b80-85b6-11eb-9539-16decc24f4a2.png" width="400"></p>
 
@@ -49,7 +49,7 @@
 ---
 <br>
 
-# 5. &#128270; 기술 구현 
+## 5. &#128270; 기술 구현 
 ### 1) 로그인
 <p align="center"><img src="https://user-images.githubusercontent.com/72012792/111125552-0f778d00-85b5-11eb-83a1-1ce8ca67a4ba.png" width="700"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/72012792/111125639-2e761f00-85b5-11eb-821b-2784a10e5475.png" width="700"></p>
@@ -64,5 +64,5 @@
 <br>
 
 
-# 6. &#127908; 리뷰
+## 6. &#127908; 리뷰
 <p align="center"><img src="https://user-images.githubusercontent.com/72012792/111125750-4cdc1a80-85b5-11eb-92f8-fc1169d9a7f5.png" width="700"></p>
